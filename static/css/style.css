@@ -1,0 +1,17 @@
+/*
+* Some colors
+* HEX: #94b81c RGB: (148, 184, 28), HEX: #c8dc67 RGB: (200, 220, 103), HEX: #5c8c1a RGB: (92, 140, 26), HEX: #a2a656 RGB: (162, 166, 86), HEX: #cccf9c RGB: (204, 207, 156), HEX: #395e2c RGB: (57, 94, 44). 
+*/
+
+.navbar {
+	background-color: #94b81c; 
+}
+.dropdown-menu {
+	background-color: #94b81c;
+}
+.dropdown-menu .dropdown-item:hover {
+	background-color: #c8dc67;
+}
+body {
+	background-color: #c8dc67;
+}
